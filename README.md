@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-i am gourav a software engineer 
-microsoft
+i am gourav 
+
 
 <!--
 **chavregourav/chavregourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
