@@ -41,9 +41,9 @@ I'm **Gourav Chavre**, a passionate **Frontend Developer** with a keen interest 
 - **React** — Component-driven UI, hooks, state management (88% proficiency)
 
 ### Full-Stack Expansion
-- **Python** — Learning data structures, automation, NLP (60% proficiency)
-- **DBMS** — SQL, database design, queries (80% proficiency)
 
+- **DBMS** — SQL, database design, queries (80% proficiency)
+Python** — Learning data structures, automation, NLP (60% proficiency)
 ---
 
 ## 📂 Featured Projects
